@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Live Wallpaper</string>
+
+    <string name="particle_setup">Particle setup</string>
+    <string name="particle_behaviour">Particle behaviour</string>
+    <string name="partiсle_speed">Particle Speed interval</string>
+    <string name="particle_size">Particle Size interval, px</string>
+    <string name="partiсle_lifetime">Particle lifetime, s</string>
+</resources>
